@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/parth.salvi/resume/parthsalvi.github.io/my-app/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/parth.salvi/resume/my-app/src/styles.css */"./src/styles.css");
 
 
 /***/ })
